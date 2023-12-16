@@ -1,0 +1,3 @@
+Welcome to the alias 'u2d' for the 'unix2dos' line ending format converter tool
+-> Decription:
+This tool is used to convert text files with Unix/Linux line endings ('LF' - Line Feed) Represented by the character '\r' to DOS/Windows line endings ('CRLF' - Carriage Return + Line Feed) Represented by the characters '\r\n'.
