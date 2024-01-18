@@ -1,2 +1,2 @@
 # .gitignore
-ignored_dir/
+/ignored_dir
