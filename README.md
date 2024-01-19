@@ -10,7 +10,7 @@
 ### 1. Windows formater. <sub>([unix2dos.txt](unix2dos.txt))</sub>
 - **Description:** This tool is used to convert text files with Unix/Linux line endings ('LF' - Line Feed) Represented by the character '\n' to DOS/Windows line endings ('CRLF' - Carriage Return + Line Feed) Represented by the characters '\r\n'.
 
-- **File:** <code style="background-color: #f9f2f4;"><span style="color:red;">unix2dos.txt</span></code>
+- **File:** <code style="background-color: #f8f8f8;"><span style="color:red;">unix2dos.txt</span></code>
 
 ### 2. lets test. <sub>([file.txt](file.txt))</sub>
 - **Description:** it's a test file.
