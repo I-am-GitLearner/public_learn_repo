@@ -16,3 +16,33 @@
 - **Description:** it's a test file.
 
 - **File:** <code style="background-color: #f9f2f4;"><span style="color:red;">file.txt</span></code>
+
+
+
+
+## Quiz questions
+#### Question #0
+Which of the following are both valid comment syntaxes in ANSI C, and Betty-compliant?
+[x] `/* Comment */`
+
+[ ] `// Comment`
+
+[x] ```txt
+    /*
+    * Comment
+    */
+    ```
+[ ] `/* Comment /* nested */ */`
+
+[ ] `# Comment`
+
+[ ] ```txt
+    /*
+    Comment
+    */
+    ```
+#### Question #1
+Which command can be used to compile a C source file?
+[ ] c-compiler
+[x] gcc
+[ ] bash
