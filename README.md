@@ -21,10 +21,10 @@
 
 ## Open i new Tap
 - **Description:** How To Open linkes in a new browser tap
-      - use HTML `target` attribute in this formate:
-        ```md
-        [Link Text](URL){:target="_blank"}
-        ```
+    - use HTML `target` attribute in this formate:
+    ```md
+    [Link Text](URL){:target="_blank"}
+    ```
   - click here to test -> [OpenAI](https://openai.com){:target="_blank"}
 
 
