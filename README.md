@@ -1,13 +1,3 @@
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const links = document.querySelectorAll('a');
-    links.forEach(link => {
-        link.setAttribute('target', '_blank');
-        link.setAttribute('rel', 'noopener noreferrer');
-    });
-});
-</script>
-
 # public_learn_repo 
 ## Welcome Git Learner, I wish you an enjoyable learning journey
 
@@ -36,8 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
         [Link Text](URL){:target="_blank"}
         ```
   - click here to test -> [OpenAI](https://openai.com){:target="_blank"}
-
-
+  - Click <a href="https://www.geeksforgeeks.org/" target="_blank">here</a> to visit GeeksForGeeks website. 
 
 
 
