@@ -27,7 +27,7 @@
         ```
   - click here to test -> [OpenAI](https://openai.com){:target="_blank"}
   - Click <a href="https://www.geeksforgeeks.org/" target="_blank">here</a> to visit GeeksForGeeks website.
-  - [![Video Title](https://img.youtube.com/vi/rATNU0Fr8zs/0.jpg =560*315)](https://www.youtube.com/watch?v=rATNU0Fr8zs)
+  - [![Video Title](https://img.youtube.com/vi/rATNU0Fr8zs/0.jpg =560x315)](https://www.youtube.com/watch?v=rATNU0Fr8zs)
 
 
 ## Quiz questions
