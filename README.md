@@ -1,3 +1,13 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const links = document.querySelectorAll('a');
+    links.forEach(link => {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+    });
+});
+</script>
+
 # public_learn_repo 
 ## Welcome Git Learner, I wish you an enjoyable learning journey
 
