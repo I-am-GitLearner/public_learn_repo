@@ -26,7 +26,7 @@
         ```md
         [Link Text](URL){:target="_blank"}
         ```
-  - click here to test -> [OpenAI](https://openai.com){:target="_blank"}
+  - click here to test -> [OpenAI](https://openai.com){:target="\_blank"}
 
 
 
