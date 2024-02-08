@@ -1,4 +1,3 @@
-<base target="_blank">
 # public_learn_repo 
 ## Welcome Git Learner, I wish you an enjoyable learning journey
 
@@ -26,7 +25,7 @@
         ```md
         [Link Text](URL){:target="_blank"}
         ```
-  - click here to test -> [OpenAI](https://openai.com){:target="\_blank"}
+  - click here to test -> [OpenAI](https://openai.com){:target="_blank"}
 
 
 
