@@ -27,7 +27,7 @@
         ```
   - click here to test -> [OpenAI](https://openai.com){:target="_blank"}
   - Click <a href="https://www.geeksforgeeks.org/" target="_blank">here</a> to visit GeeksForGeeks website.
-  - redirect [here](http://tinyurl.com/447469bh)
+  - redirect [here](https://is.gd/JYnjrj)
 
 
 
